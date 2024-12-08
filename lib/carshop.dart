@@ -47,7 +47,7 @@ class ProductPage extends StatelessWidget {
                     ),
                     SizedBox(height: 16),
                     Image.asset(
-                      'assets/66.png',
+                      'assets/46.jpg',
                       height: 150,
                     ),
                   ],

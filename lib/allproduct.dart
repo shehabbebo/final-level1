@@ -10,20 +10,20 @@ class DiabetesCarePage extends StatelessWidget {
 
   final List<Map<String, String>> products = [
     {
-      'image': 'assets/66.png',
+      'image': 'assets/47.jpg',
       'name': 'Accu-check Active\nTest Strip',
       'price': 'Rs.112'
     },
     {
-      'image': 'assets/23.jpg',
+      'image': 'assets/47.jpg',
       'name': 'Omron HEM-8712\nBP Monitor',
       'price': 'Rs.150'
     },
-    {'image': 'assets/23.jpg', 'name': 'Glucometer', 'price': 'Rs.200'},
-    {'image': 'assets/23.jpg', 'name': 'Test Strips', 'price': 'Rs.90'},
-    {'image': 'assets/23.jpg', 'name': 'BP Machine', 'price': 'Rs.180'},
+    {'image': 'assets/47.jpg', 'name': 'Glucometer', 'price': 'Rs.200'},
+    {'image': 'assets/47.jpg', 'name': 'Test Strips', 'price': 'Rs.90'},
+    {'image': 'assets/47.jpg', 'name': 'BP Machine', 'price': 'Rs.180'},
     {
-      'image': 'assets/23.jpg',
+      'image': 'assets/47.jpg',
       'name': 'Sugar Control Juice',
       'price': 'Rs.250'
     },

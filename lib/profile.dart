@@ -35,7 +35,7 @@ class UserProfilePage extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'Hi, Rahul Kanjariya',
+                      'Hi, shehab bebo',
                       style: TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
